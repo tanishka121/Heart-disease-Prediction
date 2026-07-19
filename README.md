@@ -105,5 +105,4 @@ BTech CSE | Data Science Enthusiast
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
-# Heart-Disease-Prediction
-# Heart-Disease-Prediction
+
