@@ -92,6 +92,9 @@ streamlit run app.py
 
 ---
 
+## 🚀 Live Demo
+👉 [Click here to use the app](https://tanishka121-heart-disease-prediction-app-3hko6x.streamlit.app/)
+
 ## 👩‍💻 Author
 
 **Tanishka Chauhan**
